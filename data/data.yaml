@@ -1,0 +1,5 @@
+train: ./ppe/train/images
+val: ./ppe/valid/images
+
+nc: 4
+names: ['boots', 'hard hat', 'person', 'vest']
