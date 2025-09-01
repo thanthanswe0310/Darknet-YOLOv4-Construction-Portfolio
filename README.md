@@ -44,30 +44,29 @@ Add a workflow file: .github/workflows/cicd.yml
 
 #### 1.Build Stage
 
-    ![Alt text] Build Docker image.
+    Build Docker image.
 
-    * Install dependencies.
+    1. Install dependencies.
 
-    * Lint Python code (flake8, black).
+    2. Lint Python code (flake8, black).
+
 #### 2. Test Stage
     
-    * Run unit tests for preprocessing scripts.
+    1. Run unit tests for preprocessing scripts.
     
-    * Run a small training job on a sample dataset (smoke test).
-    
-    * Run evaluation to check outputs.
+    2. Run evaluation to check outputs.
 
 #### 3. Push Stage
 
-    * Push Docker image to DockerHub GitHub Container Registry.
+    1. Push Docker image to DockerHub GitHub Container Registry.
 
 #### 4. Deploy Stage (optional)
 
-    * Deploy model as REST API (FastAPI + Docker).
+    1. Deploy model as REST API (FastAPI + Docker).
 
 #### 5. README
 
-   * Show an architecture diagram:
+   1. Show an architecture diagram:
 
-   * Data → Preprocessing → Training → Evaluation → Docker Build → CI/CD → Deployment.
+   2. Data → Preprocessing → Training → Evaluation → Docker Build → CI/CD → Deployment.
 
