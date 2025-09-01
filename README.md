@@ -55,20 +55,25 @@ Add a workflow file: .github/workflows/cicd.yml
     1. Run unit tests for preprocessing scripts.
     
     2. Run evaluation to check outputs.
-
-    3. Output Image: ![screenshot](docs/ladder_real_time_image.jpg)
+<p align="center"> <img src="docs/ladder_real_time_image.jpg" alt="Real Time Test Image" width="500"/> <br> <em>Real-time ladder detection test image</em> </p>
 
 #### 3. Push Stage
 
     1. Push Docker image to DockerHub GitHub Container Registry.
 
-#### 4. Deploy Stage (optional)
+#### 4. Deploy
 
     1. Deploy model as REST API (FastAPI + Docker).
 
-#### 5. README
+#### 5.License
 
-   1. Show an architecture diagram:
+    MIT License © 2025
+---
+👉 This version:
+- Uses **relative path (`docs/ladder_real_time_image.jpg`)** so the image works directly in GitHub.  
+- Centers and scales the image nicely.  
+- Adds captions for clarity.  
+- Organizes sections with professional spacing and formatting.  
 
-   2. Data → Preprocessing → Training → Evaluation → Docker Build → CI/CD → Deployment.
+
 
