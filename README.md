@@ -68,7 +68,5 @@ Add a workflow file: .github/workflows/cicd.yml
 
     MIT License © 2025
 
-- Organizes sections with professional spacing and formatting.  
-
 
 
