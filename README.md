@@ -67,11 +67,7 @@ Add a workflow file: .github/workflows/cicd.yml
 #### 5.License
 
     MIT License © 2025
----
-👉 This version:
-- Uses **relative path (`docs/ladder_real_time_image.jpg`)** so the image works directly in GitHub.  
-- Centers and scales the image nicely.  
-- Adds captions for clarity.  
+
 - Organizes sections with professional spacing and formatting.  
 
 
