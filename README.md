@@ -56,7 +56,7 @@ Add a workflow file: .github/workflows/cicd.yml
     
     2. Run evaluation to check outputs.
 
-    3. Output Image: ![Real Time Test Image](https://raw.githubusercontent.com/thanthanswe0310/Yolov4-cicd-portfolio/main/docs/ladder_real_time_image.jpg)
+    3. Output Image: <p align="center"> <img src="docs/ladder_real_time_image.jpg" alt="Real Time Test Image" width="500"/> <br> <em>Real-time ladder detection test image</em> </p>
 
 #### 3. Push Stage
 
@@ -66,9 +66,16 @@ Add a workflow file: .github/workflows/cicd.yml
 
     1. Deploy model as REST API (FastAPI + Docker).
 
-#### 5. README
+#### 5.License
 
-   1. Show an architecture diagram:
+    MIT License © 2025
+---
+👉 This version:
+- Uses **relative path (`docs/ladder_real_time_image.jpg`)** so the image works directly in GitHub.  
+- Centers and scales the image nicely.  
+- Adds captions for clarity.  
+- Organizes sections with professional spacing and formatting.  
 
-   2. Data → Preprocessing → Training → Evaluation → Docker Build → CI/CD → Deployment.
+Do you also want me to include a **pipeline diagram (flowchart-style)** in the README, so it visually explains the *Data → Training → CI/CD → Deployment* process?
+
 
