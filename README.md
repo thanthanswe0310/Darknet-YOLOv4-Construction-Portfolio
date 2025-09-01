@@ -1,8 +1,8 @@
 ### 1. Project Overview (README.md)
 ```
-Title: End-to-End YOLOv4 Object Detection Pipeline with CI/CD
-Description:
-"This project demonstrates a containerized YOLOv4 pipeline from data preprocessing to model training, evaluation, and deployment. It includes automated workflows using CI/CD pipelines for reproducibility and scalability."
+Title: Darknet YOLOv4 Applied to Large-Scale Construction Portfolio
+
+At Conti Lab, Chung Ang University, I implemented Darknet YOLOv4 in collaboration with the National Information Society Agency (NIA). The project involved over 110,000 construction-related images (458 GB). This repository serves as a demo portfolio showcasing the development and application of Darknet YOLOv4 for the construction domain.
 
 Stack: Docker, YOLOv4, Python, PyTorch/Darknet, GitHub Actions
 
