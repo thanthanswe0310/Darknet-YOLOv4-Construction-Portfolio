@@ -56,6 +56,8 @@ Add a workflow file: .github/workflows/cicd.yml
     
     2. Run evaluation to check outputs.
 
+    3. Output Image: ![screenshot](docs/ladder_real_time_image.jpg)
+
 #### 3. Push Stage
 
     1. Push Docker image to DockerHub GitHub Container Registry.
