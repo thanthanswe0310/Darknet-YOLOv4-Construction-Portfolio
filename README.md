@@ -22,9 +22,7 @@ Key Features:
 ```text
 yolov4-cicd-portfolio/
 │── .github/
-|──  ├── workflows
-|──  ├──────├──.gitattributes  # git attributes
-|──  ├──────├── cicd.yml       # CICD yml file
+|──  ├── workflows     
 |──data/                  # Example dataset or instructions for downloading
 │── src/
 │   ├── preprocessing/      # Scripts for data cleaning & augmentation
