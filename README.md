@@ -61,7 +61,7 @@ Add a workflow file: .github/workflows/cicd.yml
 
     1. Push Docker image to DockerHub GitHub Container Registry.
 
-#### 4. Deploy Stage (optional)
+#### 4. Deploy
 
     1. Deploy model as REST API (FastAPI + Docker).
 
