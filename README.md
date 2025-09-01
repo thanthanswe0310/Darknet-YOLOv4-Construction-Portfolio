@@ -49,13 +49,12 @@ Add a workflow file: .github/workflows/cicd.yml
     1. Install dependencies.
 
     2. Lint Python code (flake8, black).
+
 #### 2. Test Stage
     
     1. Run unit tests for preprocessing scripts.
     
-    2. Run a small training job on a sample dataset (smoke test).
-    
-    3. Run evaluation to check outputs.
+    2. Run evaluation to check outputs.
 
 #### 3. Push Stage
 
