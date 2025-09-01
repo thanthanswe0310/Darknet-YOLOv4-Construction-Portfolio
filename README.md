@@ -43,7 +43,7 @@ Add a workflow file: .github/workflows/cicd.yml
 
 #### 🔹1.Build Stage
 
-    * Build Docker image.
+    ![Alt text] Build Docker image.
 
     * Install dependencies.
 
