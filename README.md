@@ -32,7 +32,6 @@ yolov4-cicd-portfolio/
 │   ├── evaluation/         # Scripts to evaluate mAP, precision, recall
 │── docker/
 │   ├── Dockerfile          # Container definition
-│   └── docker-compose.yml  # For local testing
 │── .github/workflows/      # GitHub Actions CI/CD configs
 │── requirements.txt        # Python dependencies
 │── README.md               # Project overview & usage
