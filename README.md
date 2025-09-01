@@ -55,8 +55,7 @@ Add a workflow file: .github/workflows/cicd.yml
     1. Run unit tests for preprocessing scripts.
     
     2. Run evaluation to check outputs.
-
-    3. Output Image: <p align="center"> <img src="docs/ladder_real_time_image.jpg" alt="Real Time Test Image" width="500"/> <br> <em>Real-time ladder detection test image</em> </p>
+<p align="center"> <img src="docs/ladder_real_time_image.jpg" alt="Real Time Test Image" width="500"/> <br> <em>Real-time ladder detection test image</em> </p>
 
 #### 3. Push Stage
 
@@ -76,6 +75,5 @@ Add a workflow file: .github/workflows/cicd.yml
 - Adds captions for clarity.  
 - Organizes sections with professional spacing and formatting.  
 
-Do you also want me to include a **pipeline diagram (flowchart-style)** in the README, so it visually explains the *Data → Training → CI/CD → Deployment* process?
 
 
