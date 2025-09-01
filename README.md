@@ -56,7 +56,7 @@ Add a workflow file: .github/workflows/cicd.yml
     
     2. Run evaluation to check outputs.
 
-    3. Output Image: ![screenshot](docs/ladder_real_time_image.jpg)
+    3. Output Image: ![screenshot](https://github.com/thanthanswe0310/Yolov4-cicd-portfolio/tree/main/docs)
 
 #### 3. Push Stage
 
